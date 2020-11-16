@@ -13,6 +13,8 @@ I have a working Icloud with facetime so thats nice. Wifi is not working as my c
 # Why?
 It is a fun project, and, i kinda wanted a macbook, and now i sorta have. 
 # Specs:
-CPU: i7 8565U
-GPU: MX250 can't be used as nvidea does not make drivers for it, for macOS
-RAM: 16GB
+- CPU: i7 8565U
+- GPU: MX250 can't be used as nvidea does not make drivers for it, for macOS
+- RAM: 16GB
+- SSD: M.2 HP 500GB~
+- 1080P 15INCH Screen
