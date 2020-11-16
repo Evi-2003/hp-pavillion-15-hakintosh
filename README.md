@@ -2,7 +2,7 @@
 A macbook, no a, HP book, ehh a HPBookPro? yez.
 ![alt text](https://github.com/Remco17/HP-BookPro/blob/main/img.jpg)
 --
-Just a HP laptop with macOS -- hakintosh
+Just a HP laptop with macOS -- as some call it ... a hakintosh
 # Clover or Opencore?
 I will start with clover, will convert to opencore ones the time is right.
 # BigSur
