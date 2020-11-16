@@ -1,5 +1,6 @@
 # HP-BookPro
 A macbook, no a, HP book, ehh a HPBookPro? yez.
+![alt text](https://github.com/Remco17/HP-BookPro/blob/main/img.jpg)
 --
 Just a HP laptop with macOS -- hakintosh
 # Clover or Opencore?
