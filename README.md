@@ -20,7 +20,7 @@ It is a fun project, and, i kinda wanted a macbook, and now i sorta have.
 - SSD: M.2 HP 500GB~
 - 1920x1080 15inch Screen
 # Peformance 
-![alt text](https://github.com/Remco17/HP-BookPro/blob/main/CineBench.png)
+![alt text](https://github.com/Remco17/HP-BookPro/blob/main/Cinebench.png)
 ![alt text](https://github.com/Remco17/HP-BookPro/blob/main/Power%20Gadget.png)
 # To-Do 
 - [X] Removing unnecessary stuff
