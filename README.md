@@ -19,7 +19,7 @@ It is a fun project, and, i kinda wanted a macbook, and now i sorta have.
 - SSD: M.2 HP 500GB~
 - 1920x1080 15inch Screen
 # To-Do 
-[ ] Removing unnecessary stuff
-[ ] Converting the whole thing into opencore
-[ ] Updating to bigsur after converted to opencore
-[ ] Chaning the wifi chip of my laptop, need to look which one....
+- [ ] Removing unnecessary stuff
+- [ ] Converting the whole thing into opencore
+- [ ] Updating to bigsur after converted to opencore
+- [ ] Chaning the wifi chip of my laptop, need to look which one....
