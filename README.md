@@ -15,7 +15,7 @@ Everything works, except the MX250 and wifi. The MX250 won't be working until nv
 It is a fun project, and, i kinda wanted a macbook, and now i sorta have. 
 # Specs:
 - CPU: i7 8565U
-- GPU: MX250 can't be used as nvidea does not make drivers for it, for macOS..
+- GPU: MX250 can't be used as nvidia does not make drivers for it, for macOS..
 - RAM: 16GB
 - SSD: M.2 HP 500GB~
 - 1920x1080 15inch Screen
