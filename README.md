@@ -8,6 +8,7 @@ I started with Clover but now i converted everything into OpenCore
 # BigSur
 Yes! With the current OpenCore config it works perfectly fine. 
 ![alt text](https://github.com/Remco17/HP-BookPro/blob/main/BigSur.png)
+( It is 15 inch but whatever )
 # What does work?
 Everything works, except the MX250 and wifi. The MX250 won't be working until nvidea releases web drivers which they won't. And for the wifi i will need to replace the wifi card in my laptop. For now i will need to use a wifi usb or ethernet. 
 # Why?
