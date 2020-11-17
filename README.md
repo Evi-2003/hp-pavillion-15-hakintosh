@@ -6,7 +6,7 @@ Just a HP laptop with macOS -- as some call it ... a hakintosh
 # Clover or Opencore?
 I started with Clover but now i converted everything into OpenCore
 # BigSur
-Yes! With the current OpenCore config it works perfectly fine. 
+Yes it does work with Big Sur! With the current OpenCore config it works perfectly fine. 
 ![alt text](https://github.com/Remco17/HP-BookPro/blob/main/BigSur.png)
 ( It is 15 inch but whatever )
 # What does work?
