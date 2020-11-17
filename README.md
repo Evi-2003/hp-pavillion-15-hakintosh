@@ -26,4 +26,4 @@ It is a fun project, and, i kinda wanted a macbook, and now i sorta have.
 - [X] Removing unnecessary stuff
 - [X] Converting the whole thing into opencore
 - [X] Updating to bigsur after converted to opencore
-- [ ] Chaning the wifi chip of my laptop, need to look which one....
+- [ ] Replacing the wifi card of my laptop, need to look which one.... Not every working wifi for hakintosh will be working on a HP /:
