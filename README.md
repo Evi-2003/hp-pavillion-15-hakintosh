@@ -8,9 +8,9 @@ Here we have a little photo shoot:
 ![alt text](https://github.com/Remco17/HP-BookPro/blob/main/binnen_foto-1.jpg)
 ![alt text](https://github.com/Remco17/HP-BookPro/blob/main/binnen_foto-2.jpg)
 # Clover or Opencore?
-I started with Clover but now i converted everything into OpenCore
+I started with Clover but since BigSur is released i'm converting everything into opencore which runs perfectly. 
 # BigSur
-Yes it does work with Big Sur! With the current OpenCore config it works perfectly fine. 
+Yes it does work with Big Sur! With the current OpenCore config it works perfectly fine. With clover it doesn't.
 ![alt text](https://github.com/Remco17/HP-BookPro/blob/main/BigSur.png)
 ( It is 15 inch but whatever )
 # What does work?
@@ -31,3 +31,5 @@ It is a fun project, and, i kinda wanted a macbook, and now i sorta have.
 - [X] Converting the whole thing into opencore
 - [X] Updating to bigsur after converted to opencore
 - [ ] Replacing the wifi card of my laptop, need to look which one.... Not every working wifi for hakintosh will be working on a HP /:
+- [ ] Fixing some patches such as brightness control
+- [ ] Fixing the audio
